@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#main {
+    background: rgba(239, 239, 239, 1);
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+#title {
+    text-align: center;
+}
+
+#img-div {
+    text-align: center;
+    background: #fff;
+    padding: 20px 10px;
+}
+
+img {
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    max-width: 250px;
+  }
+
+#img-caption {
+    margin: 15px 0;
+}
+
+#tribute-info {
+    text-align: center;
+}
+
+#time-head {
+    text-align: center;
+    padding: 30px;
+}
+
+#time-list {
+    text-align: left;
+    margin: 0 auto;
+    width: 50%;
+}
+
+#time-list li {
+    margin: 15px 0 ;
+}
+
+#wiki {
+    padding: 15px 0;
+    font-size: 16px;
+}
