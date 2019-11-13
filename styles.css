@@ -11,12 +11,14 @@ body {
 
 #title {
     text-align: center;
+    padding-top: 15px;
 }
 
 #img-div {
     text-align: center;
     background: #fff;
     padding: 20px 10px;
+    margin: 0 25px;
 }
 
 img {
@@ -27,7 +29,7 @@ img {
   }
 
 #img-caption {
-    margin: 15px 0;
+    padding-top: 15px;
 }
 
 #tribute-info {
